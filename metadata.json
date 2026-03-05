@@ -1,0 +1,5 @@
+{
+  "name": "Zayka Food Delivery",
+  "description": "A multi-role food delivery application with user, restaurant, delivery, and admin panels.",
+  "requestFramePermissions": []
+}
